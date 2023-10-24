@@ -1,0 +1,91 @@
+.parent{
+    background-color:rgb(97, 145, 212);
+    height: 650px;
+    width: 1010px;
+    margin-left: 250px;
+    position: relative;
+}
+body{
+    background-color: gray;
+    text-align: center;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+.add{
+    background-color: rgb(58, 124, 216);
+    width: 60px;
+    color: white;
+    border: none;
+
+}
+.buy{
+    background-color: orange;
+    width: 60px;
+    color: white;
+    border: none;
+}
+.child1{ 
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px ;
+    position: absolute;
+    top:10px ;
+    left: 10px;
+    
+}
+.child2{ 
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px ;
+    position: absolute;
+    top:10px ;
+    left: 400px;
+    
+}
+.child3{ 
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px ;
+    position: absolute;
+    top:10px ;
+    left: 800px;
+    
+}
+.child4{ 
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px ;
+    position: absolute;
+    bottom:10px ;
+    left: 10px;
+    
+}
+
+.child5{ 
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px ;
+    position: absolute;
+    bottom:10px ;
+    left: 400px;
+    
+}
+
+.child6{ 
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px ;
+    position: absolute;
+    bottom:10px ;
+    left: 800px;
+    
+}
